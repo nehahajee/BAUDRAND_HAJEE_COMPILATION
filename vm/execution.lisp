@@ -1,0 +1,1 @@
+boucle vm-run, mode trace pas à pas, HALT

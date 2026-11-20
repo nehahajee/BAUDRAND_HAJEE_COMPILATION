@@ -1,0 +1,1 @@
+une fonction par instruction (exec-move, exec-push…)
